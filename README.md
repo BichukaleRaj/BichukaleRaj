@@ -1,11 +1,9 @@
 <h1 align="center">🏎️ Raj Bichukale</h1>
 <h6 align="center">Computer Engineering Student • AR/VR Developer • Exploring AI/ML</h6>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0d1117&height=120&section=header&text=&fontSize=0" />
-</p>
 
-<p align="center" style="margin-top:-90px;">
+
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2200&color=000000&center=true&vCenter=true&width=700&lines=Initializing+System...;Loading+Driver+Profile...;Raj+Bichukale;Exploring+AI%2FML;Building+in+AR%2FVR" />
 </p>
 

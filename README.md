@@ -120,7 +120,7 @@ Practiced frontend development with small websites
 ## 📫 Pit Stop
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/raj-bichukale-5306532b9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Raj%20Bichukale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

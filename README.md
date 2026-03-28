@@ -2,11 +2,14 @@
 <h6 align="center">Computer Engineering Student • AR/VR Developer • Exploring AI/ML</h6>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&color=00F7FF&center=true&vCenter=true&width=750&lines=Initializing+System...;Loading+Driver+Profile...;Exploring+AI%2FML+%7C+Building+in+AR%2FVR" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F7FF,100:0d1117&height=120&section=header&text=&fontSize=0" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00F7FF&height=80&section=header"/>
+
+<p align="center" style="margin-top:-90px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2200&color=000000&center=true&vCenter=true&width=700&lines=Initializing+System...;Loading+Driver+Profile...;Raj+Bichukale;Exploring+AI%2FML;Building+in+AR%2FVR" />
 </p>
+
+<br>
 
 <p align="center">─────────────────────────── 🏎️ ───────────────────────────</p>
 
@@ -14,12 +17,12 @@
 
 - 🎓 Computer Engineering Student  
 - 🧠 Strong foundation in **Data Structures & Algorithms (C++)**
-- 🤖 Exploring **AI/ML concepts and applications**
-- 🎮 Building immersive **AR/VR experiences using Unity**
-- 🎨 Designing 3D assets with **Blender**
-- ⚡ Advancing in **JavaScript (DOM & real-world projects)**
+- 🤖 Exploring **AI/ML concepts and real-world applications**
+- 🎮 Developing immersive **AR/VR experiences using Unity**
+- 🎨 Creating 3D assets with **Blender**
+- ⚡ Advancing in **JavaScript (DOM & practical projects)**
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">─────────────────────────── 🏁 ───────────────────────────</p>
 
 ## ⚙️ Tech Garage
 
@@ -82,7 +85,7 @@
 - 🏅 Unity Essentials Certification  
 - 🏅 Unity Junior Programmer Certification  
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">─────────────────────────── 📜 ───────────────────────────</p>
 
 ## 🛠️ Systems Built
 
@@ -96,7 +99,7 @@ Practiced frontend development with small websites
 - 🧱 Assets created in **Blender**  
 - 🕶️ Scene developed in **Unity**  
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">─────────────────────────── 🛠️───────────────────────────</p>
 
 ## 🚀 Currently Focus
 
@@ -104,19 +107,7 @@ Practiced frontend development with small websites
 - 📚 JavaScript (DOM + real projects)  
 - 🤖 AI/ML fundamentals  
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
-
-## 📊 Performance Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">─────────────────────────── 🚀 ───────────────────────────</p>
 
 ## 🏆 Goals
 
@@ -124,10 +115,14 @@ Practiced frontend development with small websites
 - 🎮 Develop immersive and interactive **AR/VR applications**  
 - ⚡ Grow into a **Full-Stack + XR Engineer**
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">─────────────────────────── 🏆 ───────────────────────────</p>
 
 ## 📫 Pit Stop
 
-- LinkedIn: (Add link)
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Bichukale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<p align="center">─────────────────────────── ⚙️ ───────────────────────────</p>
+<p align="center">───────────────────────────  📫───────────────────────────</p>

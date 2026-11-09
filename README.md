@@ -14,11 +14,11 @@
 ## 🏁 Driver Profile
 
 - 🎓 Computer Engineering Student  
-- 🧠 Strong foundation in **Data Structures & Algorithms (C++)**
+- 🧠 Strong foundation in **Data Structures & Algorithms (Python)**
 - 🤖 Exploring **AI/ML concepts and real-world applications**
 - 🎮 Developing immersive **AR/VR experiences using Unity**
 - 🎨 Creating 3D assets with **Blender**
-- ⚡ Advancing in **JavaScript (DOM & practical projects)**
+
 
 <p align="center">─────────────────────────── 🏁 ───────────────────────────</p>
 
